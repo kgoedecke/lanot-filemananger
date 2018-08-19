@@ -1,4 +1,8 @@
 # lanot-filemananger
+
+[![Total Downloads](https://poser.pugx.org/kgoedecke/lanot-filemanager/d/total.svg)](https://packagist.org/packages/kgoedecke/lanot-filemanager)
+[![MIT License](https://poser.pugx.org/kgoedecke/lanot-filemanager/license.svg)](https://packagist.org/packages/kgoedecke/lanot-filemanager)
+
 [Lanot File Manager](http://www.lanot.biz/lanot-file-manager.html) Module for Magento 1.X including modman and composer files
 
 ### Usage with Composer
