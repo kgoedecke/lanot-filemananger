@@ -2,7 +2,7 @@
   "name": "kgoedecke/lanot-filemanager",
   "description": "Lanot File Manager for Magento 1.X",
   "type": "magento-module",
-  "license": "OSL",
+  "license": "OSL-3.0",
   "keywords": [
     "lanot", "filemanager", "magento"
   ],
