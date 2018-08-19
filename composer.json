@@ -1,0 +1,19 @@
+{
+  "name": "kgoedecke/lanot-filemanager",
+  "description": "Lanot File Manager for Magento 1.X",
+  "type": "magento-module",
+  "license": "OSL",
+  "keywords": [
+    "lanot", "filemanager", "magento"
+  ],
+  "authors": [
+    {
+      "name": "Anatolii",
+      "email": "lanot.biz@gmail.com"
+    },
+    {
+      "name": "Kevin Goedecke",
+      "email": "kevin.goedecke@gmail.com"
+    }
+  ]
+}
